@@ -10,12 +10,8 @@ playgrounds v3.3
 
 ## 手順
 
-playgroundsを開いて
+playgroundsを開いて空白を選択
 
-空白を選択
-
-swiftUIをimport
-
-playgroundsサポートもimport
+適当にファイル名変える(swift_practiceとか)
 
 これで準備完了
