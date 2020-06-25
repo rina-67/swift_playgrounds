@@ -2,9 +2,11 @@
 
 playgroundsでswiftのコーディング
 
+※Xcodeは使わないでやってみる
+
 ## 実行環境
 
-iPadOS 13.5.1 (Macでも多分いけるはず)
+iPadOS 13.5.1 
 
 playgrounds v3.3
 
@@ -14,6 +16,6 @@ playgrounds v3.3
 
 2.適当にファイル名変える(swift_practiceとか)
 
-3.タップしてコードを入力ってところに
+3.タップしてコードを入力ってところにswiftファイルのコードを貼り付ける
 
 これで準備完了
